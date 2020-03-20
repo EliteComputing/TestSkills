@@ -1,0 +1,197 @@
+body {
+    margin: 0;
+    background-color: #d4d7dd;
+    }
+
+  hr {
+
+    border-style: none;
+    border-top-style: solid;
+    border-color: #edffea;
+    border-width: 10px;
+    width: 300px;
+
+    }
+
+header {
+    background:  #0f4c81;
+    color: white;
+    margin: 0;
+    padding: 20px 20px 20px 20px;
+    border-radius: 15px;
+    }
+
+h1 {
+    display: inline;
+    background-color:  #edffea;
+    border: solid;
+    border-width: 5px;
+    border-color: #89a3b2;
+    color: #001f3f;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    }
+
+h2 {
+    background-color: #edffea;
+    border-color: #89a3b2;
+    color: #001f3f;
+    margin: 50px;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: sans-serif;
+
+}
+
+nav ul {
+    display: inline;
+    padding: 0 0 0 100px;
+
+  }
+
+nav ul li {
+    background-color:  #edffea;
+    border: solid;
+    border-color: #89a3b2;
+    color: #001f3f;
+    border-radius: 5px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
+
+          }
+
+nav ul li a {
+    color: #001f3f;
+    text-decoration: none;
+
+        }
+
+a:hover {
+  color: white;
+  background-color: #89a3b2;
+  border-radius: 5px;
+  padding: 15px;
+
+       }
+
+
+
+div.addressinfo {
+
+    background-color: #e0e0e0;
+    color: #001f3f;
+    border: solid;
+    border-color: #0f4c81;
+    padding: 5px 5px 5px 5px;
+    border-radius: 15px;
+    border-width: 5px;
+    width: 300px;
+    font-family: sans-serif;
+
+        }
+
+div.addressinfo ul li {
+
+  list-style-type: none;
+  margin-right: 30px;
+
+    }
+
+.tabletest {
+
+    background-color:  #e0e0e0;
+    color: #001f3f;
+    border: solid;
+    border-color: #0f4c81;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    width: 300px;
+
+
+      }
+
+.Contactme {
+
+    background-color: #e0e0e0;
+    color: #001f3f;
+    border: dotted;
+    border-width: 8px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 15px;
+    width: 300px;
+
+      }
+
+.personal {
+  background-color: #e0e0e0;
+  color: #001f3f;
+  border: solid;
+  border-color: #0f4c81;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  width: 300px;
+      }
+
+.skillstable {
+  background-color: #e0e0e0;
+  color: #001f3f;
+  border: solid;
+  border-color: #0f4c81;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  width: 300px;
+      }
+
+.Nesting {
+  background-color: #e0e0e0;
+  border: solid;
+  border-color: #0f4c81;
+  color: #001f3f;
+  padding: 15px 15px 25px 15px;
+  border-radius: 15px;
+  width: 500px;
+      }
+
+.bigger {
+  width: 500px;
+
+    }
+
+.redborders {
+
+  border: solid;
+  border-color: #0f4c81;
+      }
+
+.regestermail{
+  background-color: white;
+  border-color: #0f4c81;
+  padding-bottom: 5px;
+}
+
+.mailform{
+  background-color: #e0e0e0;
+
+  color: #001f3f;
+  border: solid;
+  border-color: #0f4c81;
+  padding: 20px 10px 10px 10px;
+  border-radius: 15px;
+  width: 300px;
+
+}
+
+.calander {
+  background-color: #e0e0e0;
+  border: solid;
+  border-width: 5px;
+  border-color: #89a3b2;
+  width: 300px;
+  padding: 20px;
+  border-radius: 15px;
+
+
+}
